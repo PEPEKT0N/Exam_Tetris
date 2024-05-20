@@ -1,0 +1,13 @@
+﻿  Tetris.cpp
+C:\Users\Education\Desktop\HW\Tetris\Tetris_Final\Tetris_Final\Tetris.cpp(27,21): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\Education\Desktop\HW\Tetris\Tetris_Final\Tetris_Final\Tetris.cpp(27,23): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\Education\Desktop\HW\Tetris\Tetris_Final\Tetris_Final\Tetris.cpp(68,18): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Education\Desktop\HW\Tetris\Tetris_Final\Tetris_Final\Tetris.cpp(96,18): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Education\Desktop\HW\Tetris\Tetris_Final\Tetris_Final\Tetris.cpp(176,19): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Education\Desktop\HW\Tetris\Tetris_Final\Tetris_Final\Tetris.cpp(244,18): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Education\Desktop\HW\Tetris\Tetris_Final\Tetris_Final\Tetris.cpp(265,18): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Education\Desktop\HW\Tetris\Tetris_Final\Tetris_Final\Tetris.cpp(484,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Education\Desktop\HW\Tetris\Tetris_Final\Tetris_Final\Tetris.cpp(529,18): warning C4101: password: неиспользованная локальная переменная
+C:\Users\Education\Desktop\HW\Tetris\Tetris_Final\Tetris_Final\Tetris.cpp(521,6): warning C4101: size: неиспользованная локальная переменная
+C:\Users\Education\Desktop\HW\Tetris\Tetris_Final\Tetris_Final\Tetris.cpp(529,7): warning C4101: login: неиспользованная локальная переменная
+  Tetris_Final.vcxproj -> C:\Users\Education\Desktop\HW\Tetris\Tetris_Final\x64\Debug\Tetris_Final.exe
